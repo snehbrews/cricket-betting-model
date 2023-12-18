@@ -30,7 +30,7 @@ The project would provide suggestions for cricket betting and generate revenues 
   2. Over/Under: pldata.xlsx
   3. Player Statistics: .csv file with player names
   4. Visualisations: Weather.csv, Team.csv
--** Technologies Used:** Excel, Google Sheets, Python
+- **Technologies Used:** Excel, Google Sheets, Python
 - Python for Web Scraping Data and Data Transformation/Pre-processing, Excel/Google Sheets for Data Transformation/Pre-processing.
 
 **Models**
