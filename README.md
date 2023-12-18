@@ -36,7 +36,7 @@ The project would provide suggestions for cricket betting and generate revenues 
 **Models**
 - Folder: Prediction_Models
 - **Source File related to Models:**
-  1. Moneyline and Spred: team.ipynb
+  1. Moneyline and Spread: team.ipynb
   2. Over/Under: player_ou.ipynb
   3. Player Statistics: Prediction_Models/Player_Performance
 - Models Used:
